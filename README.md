@@ -9,3 +9,4 @@
 - weather app
 - pokemon list app
 - trips app
+- calendar app (to show work free days)
