@@ -2,6 +2,7 @@
 
 ## Projects
   
+- Support All Screen Sizes in Jetpack Compose
 - todo app
 - webpage parser
 - clock (digital & analog)
