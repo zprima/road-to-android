@@ -16,4 +16,6 @@
 ## Links
 - Android UI Layer explained: https://youtu.be/p9VR8KbmzEE
 
-<img src="vm_as_state_holder.png" height="100" />
+<img src="vm_as_state_holder.png" height="200px" />
+
+- TheAndroidShow: https://www.youtube.com/hashtag/theandroidshow
