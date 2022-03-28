@@ -2,9 +2,8 @@
 
 ## Projects
   
-- Support All Screen Sizes in Jetpack Compose https://github.com/zprima/compose-adaptive
+- [Support All Screen Sizes in Jetpack Compose](https://github.com/zprima/compose-adaptive)
 - ToDo app
-- Calendar app (vacation planner)
 - webpage parser
 - clock (digital & analog)
 - alarm (background trigger)
@@ -18,4 +17,4 @@
 
 <img src="vm_as_state_holder.png" height="200px" />
 
-- TheAndroidShow: https://www.youtube.com/hashtag/theandroidshow
+- [TheAndroidShow](https://www.youtube.com/hashtag/theandroidshow)
