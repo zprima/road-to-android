@@ -2,7 +2,7 @@
 
 ## Projects
   
-- Support All Screen Sizes in Jetpack Compose
+- Support All Screen Sizes in Jetpack Compose https://github.com/zprima/compose-adaptive
 - ToDo app
 - Calendar app (vacation planner)
 - webpage parser
