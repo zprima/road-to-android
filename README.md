@@ -3,6 +3,8 @@
 ## Projects
   
 - [Support All Screen Sizes in Jetpack Compose](https://github.com/zprima/compose-adaptive)
+- sorting vizualizer
+- solar system (animated)
 - ToDo app
 - webpage parser
 - flowr spot mobile (full)
