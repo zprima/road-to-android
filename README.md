@@ -5,6 +5,7 @@
 - [Support All Screen Sizes in Jetpack Compose](https://github.com/zprima/compose-adaptive)
 - ToDo app
 - webpage parser
+- flowr spot mobile (full)
 - clock (digital & analog)
 - alarm (background trigger)
 - weather app
