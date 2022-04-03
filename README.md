@@ -37,14 +37,15 @@
 - domain (optional)
   - model
   - usecase (verb in present tense + noun/what (optional) + UseCase)
-  - 
 - data
   - repository (type of data + Repository)
   - data sources (type of data + type of source + DataSource)
+    - local
+        - entity
+        - dao
+        - database
+    - remote
   - work managers* (if any)
-  - entity
-  - dao
-  - database
   - mappers (from db model to domain model)
 - di
   - modules (network, app, database, ...)
