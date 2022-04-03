@@ -13,6 +13,7 @@
 - alarm (background trigger)
 - weather app
 - pokemon list app
+  - https://pokeapi.co/docs/v2#pokemon
 - trips app
 - calendar app (to show work free days)
    
