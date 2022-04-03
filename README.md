@@ -35,9 +35,9 @@
     - uistate
   - components
 - domain (optional)
-  - model
   - usecase (verb in present tense + noun/what (optional) + UseCase)
 - data
+  - model  
   - repository (type of data + Repository)
   - data sources (type of data + type of source + DataSource)
     - local
