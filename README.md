@@ -36,9 +36,10 @@
   - components
 - domain (optional)
   - usecase (verb in present tense + noun/what (optional) + UseCase)
+  - repository (interfaces - definitions)
 - data
   - model  
-  - repository (type of data + Repository)
+  - repository (implementations of interfaces) (type of data + Repository)
   - data sources (type of data + type of source + DataSource)
     - local
         - entity
