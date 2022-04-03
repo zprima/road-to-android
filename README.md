@@ -4,6 +4,7 @@
   
 - [Support All Screen Sizes in Jetpack Compose](https://github.com/zprima/compose-adaptive)
 - sorting vizualizer
+- matrix character downfall animation
 - solar system (animated)
 - ToDo app
 - webpage parser
