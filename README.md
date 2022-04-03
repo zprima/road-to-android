@@ -23,3 +23,31 @@
 <img src="vm_as_state_holder.png" height="200px" />
 
 - [TheAndroidShow](https://www.youtube.com/hashtag/theandroidshow)
+
+## Project Structure
+[Guide to app arhitecture](https://developer.android.com/jetpack/guide)
+
+- ui
+  - theme
+  - navigation
+  - screens
+    - viewmodel
+    - uistate
+  - components
+- domain (optional)
+  - model
+  - usecase (verb in present tense + noun/what (optional) + UseCase)
+  - 
+- data
+  - repository (type of data + Repository)
+  - data sources (type of data + type of source + DataSource)
+  - work managers* (if any)
+  - entity
+  - dao
+  - database
+  - mappers (from db model to domain model)
+- di
+  - modules (network, app, database, ...)
+- util
+  - constants
+  - converters (date, uuid, ...)
