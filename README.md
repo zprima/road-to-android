@@ -47,7 +47,7 @@
     - remote
         - retrofit
   - work managers* (if any)
-  - mappers (from db model to domain model)
+  - mappers (from db/remote model to model we want to use in our app/domain)
 - di
   - modules (network, app, database, ...)
 - util
