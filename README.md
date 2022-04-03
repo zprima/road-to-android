@@ -45,6 +45,7 @@
         - dao
         - database
     - remote
+        - retrofit
   - work managers* (if any)
   - mappers (from db model to domain model)
 - di
