@@ -56,6 +56,6 @@
   - constants
   - converters (date, uuid, ...)
 
-UI module interacts with the DOMAIN module, does not interact with DATA module directly.
+UI module interacts with the DOMAIN module, does not interact with DATA module directly.   
 DATA module implements DOMAIN interfaces, does not interact with UI module directly.
 
