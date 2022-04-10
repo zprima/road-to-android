@@ -34,7 +34,7 @@
     - viewmodel
     - uistate
   - components
-- domain (optional)
+- domain (optional - its the most inner layer in the clean arhitecture)
   - usecase (verb in present tense + noun/what (optional) + UseCase)
   - repository (interfaces - definitions)
   - model (if domain is set, you can specify models here. Remove then model from data)
