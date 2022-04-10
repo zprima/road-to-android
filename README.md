@@ -37,6 +37,7 @@
 - domain (optional)
   - usecase (verb in present tense + noun/what (optional) + UseCase)
   - repository (interfaces - definitions)
+  - model (if domain is set, you can specify models here. Remove then model from data)
 - data
   - model  
   - repository (implementations of interfaces) (type of data + Repository)
