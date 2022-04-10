@@ -40,12 +40,13 @@
 - data
   - model  
   - repository (implementations of interfaces) (type of data + Repository)
-  - data sources (type of data + type of source + DataSource)
+  - data sources (type of data + type of source + DataSource) (NewsLocalDataSource, NewsRemoteDataSource)
     - local
         - entity
         - dao
         - database
     - remote
+        - dao
         - retrofit
   - work managers* (if any)
   - mappers (from db/remote model to model we want to use in our app/domain)
