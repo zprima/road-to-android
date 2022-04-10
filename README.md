@@ -59,4 +59,12 @@
 In case DOMAIN module exists, the following is set:   
 UI module interacts with the DOMAIN module, does not interact with DATA module directly.   
 DATA module implements DOMAIN interfaces, does not interact with UI module directly.   
+   
+Resource class for utils:
+<pre>
+  sealed class Resource<T>(val data: T? = null, val error: String? = null){   
+     class Success<T>(data: T?): Resource<T>(data)   
+     class Error<T>(error: String?, data: T? = null): Resource<T>(data, error)   
+  }
+</pre>
 
