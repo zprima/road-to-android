@@ -27,7 +27,7 @@
 ## Project Structure
 [Guide to app arhitecture](https://developer.android.com/jetpack/guide)
 
-- ui
+- ui (outer layer - it includes domain and data)
   - theme
   - navigation
   - screens
@@ -38,7 +38,7 @@
   - usecase (verb in present tense + noun/what (optional) + UseCase)
   - repository (interfaces - definitions)
   - model (if domain is set, you can specify models here. Remove then model from data)
-- data
+- data (mid layer - it includes domain)
   - model  
   - repository (implementations of interfaces) (type of data + Repository)
   - data sources (type of data + type of source + DataSource) (NewsLocalDataSource, NewsRemoteDataSource)
