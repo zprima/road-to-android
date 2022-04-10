@@ -34,7 +34,7 @@
     - viewmodel
     - uistate
   - components
-- domain (its the most inner layer in the clean arhitecture)
+- domain (its the most inner layer in the clean arhitecture. OPTIONAL - depends on app size. For small apps its just not worth it.)
   - usecase (verb in present tense + noun/what (optional) + UseCase)
   - repository (interfaces only)
   - model
@@ -56,6 +56,7 @@
   - constants
   - converters (date, uuid, ...)
 
+In case DOMAIN module exists, the following is set:   
 UI module interacts with the DOMAIN module, does not interact with DATA module directly.   
-DATA module implements DOMAIN interfaces, does not interact with UI module directly.
+DATA module implements DOMAIN interfaces, does not interact with UI module directly.   
 
