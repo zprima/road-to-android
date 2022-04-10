@@ -34,12 +34,11 @@
     - viewmodel
     - uistate
   - components
-- domain (optional - its the most inner layer in the clean arhitecture)
+- domain (its the most inner layer in the clean arhitecture)
   - usecase (verb in present tense + noun/what (optional) + UseCase)
-  - repository (interfaces - definitions)
-  - model (if domain is set, you can specify models here. Remove then model from data)
-- data (mid layer - it includes domain)
-  - model  
+  - repository (interfaces only)
+  - model
+- data (mid layer - it includes domain) 
   - repository (implementations of interfaces) (type of data + Repository)
   - data sources (type of data + type of source + DataSource) (NewsLocalDataSource, NewsRemoteDataSource)
     - local
@@ -50,7 +49,7 @@
         - dao
         - retrofit
   - work managers* (if any)
-  - mappers (from db/remote model to model we want to use in our app/domain)
+  - mappers (from db/remote model to domain model we want to use in our app/domain)
 - di
   - modules (network, app, database, ...)
 - util
