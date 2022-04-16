@@ -3,7 +3,7 @@
 ## Projects
   
 - [Support All Screen Sizes in Jetpack Compose](https://github.com/zprima/compose-adaptive)
-- sorting vizualizer
+- [Sorting vizualizer](https://github.com/zprima/compose-sorting-visualizer)
 - matrix character downfall animation
 - solar system (animated)
 - ToDo app
