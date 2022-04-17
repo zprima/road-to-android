@@ -59,6 +59,8 @@
 In case DOMAIN module exists, the following is set:   
 UI module interacts with the DOMAIN module, does not interact with DATA module directly.   
 DATA module implements DOMAIN interfaces, does not interact with UI module directly.   
+
+Wrote a post about it: [Android Jetpack Compose: Clean Arhitecture — 2022](https://anmagpie.medium.com/android-jetpack-compose-clean-arhitecture-2022-8ea280c91fd5)
    
 ## Resource class for utils:
 <pre>
