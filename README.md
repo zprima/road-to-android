@@ -5,7 +5,7 @@
 - [Support All Screen Sizes in Jetpack Compose](https://github.com/zprima/compose-adaptive)
 - [Sorting vizualizer](https://github.com/zprima/compose-sorting-visualizer)
 - [matrix character downfall animation](https://github.com/zprima/compose-matrix)
-- solar system (animated)
+- [solar system (animated)](https://github.com/zprima/compose-solar-system)
 - ToDo app
 - webpage parser
 - flowr spot mobile (full)
