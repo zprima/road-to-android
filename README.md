@@ -7,6 +7,7 @@
 - [matrix character downfall animation](https://github.com/zprima/compose-matrix)
 - [solar system (animated)](https://github.com/zprima/compose-solar-system)
 - [name reshuffler](https://github.com/zprima/compose-name-reshuffle)
+- [pokemon list (clean architecture, overkill)](https://github.com/zprima/compose-pokedex-clean)
 - ToDo app
 - webpage parser
 - flowr spot mobile (full)
