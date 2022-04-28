@@ -6,6 +6,7 @@
 - [Sorting vizualizer](https://github.com/zprima/compose-sorting-visualizer)
 - [matrix character downfall animation](https://github.com/zprima/compose-matrix)
 - [solar system (animated)](https://github.com/zprima/compose-solar-system)
+- [name reshuffler](https://github.com/zprima/compose-name-reshuffle)
 - ToDo app
 - webpage parser
 - flowr spot mobile (full)
