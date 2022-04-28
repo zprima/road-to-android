@@ -64,11 +64,11 @@ DATA module implements DOMAIN interfaces, does not interact with UI module direc
 Wrote a post about it: [Android Jetpack Compose: Clean Arhitecture — 2022](https://anmagpie.medium.com/android-jetpack-compose-clean-arhitecture-2022-8ea280c91fd5)
    
 ## Resource class for utils:
-<pre>
- sealed class Resource<T>(val data: T? = null, val error: String? = null){
+```
+sealed class Resource<T>(val data: T? = null, val error: String? = null){
     class Success<T>(data: T?): Resource<T>(data)
     class Error<T>(error: String?, data: T? = null): Resource<T>(data, error)
     class Loading<T>(val isLoading: Boolean = true): Resource<T>(null)
 }
-</pre>
+```
 
