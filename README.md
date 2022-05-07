@@ -9,13 +9,10 @@
 - [name reshuffler](https://github.com/zprima/compose-name-reshuffle)
 - [pokemon list (clean architecture, overkill)](https://github.com/zprima/compose-pokedex-clean)
 - ToDo app
-- webpage parser
 - flowr spot mobile (full)
 - clock (digital & analog)
 - alarm (background trigger)
 - weather app
-- pokemon list app
-  - https://pokeapi.co/docs/v2#pokemon
 - trips app
 - calendar app (to show work free days)
    
