@@ -2,7 +2,7 @@
 
 ## Projects
   
-- [Support All Screen Sizes in Jetpack Compose](https://github.com/zprima/compose-adaptive)
+- [Support All Screen Sizes in Jetpack Compose](https://github.com/zprima/compose-adaptive) (before Compose 1.2, now its build in)
 - [Sorting vizualizer](https://github.com/zprima/compose-sorting-visualizer)
 - [matrix character downfall animation](https://github.com/zprima/compose-matrix)
 - [solar system (animated)](https://github.com/zprima/compose-solar-system)
