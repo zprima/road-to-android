@@ -10,7 +10,7 @@
 - [pokemon list (clean architecture, overkill)](https://github.com/zprima/compose-pokedex-clean)
 - ToDo app
 - flowr spot mobile (full)
-- clock (digital & analog)
+- [clock](https://github.com/zprima/compose-clock)
 - alarm (background trigger)
 - weather app
 - trips app
