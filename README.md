@@ -68,5 +68,11 @@ sealed class Resource<T>(val data: T? = null, val error: String? = null){
     class Error<T>(error: String?, data: T? = null): Resource<T>(data, error)
     class Loading<T>(val isLoading: Boolean = true): Resource<T>(null)
 }
+
+sealed class NetworkResult<T : Any> {
+    class Success<T: Any>(val data: T) : NetworkResult<T>()
+    class Error<T: Any>(val code: Int, val message: String?) : NetworkResult<T>()
+    class Exception<T: Any>(val e: Throwable) : NetworkResult<T>()
+}
 ```
 
