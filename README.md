@@ -14,7 +14,7 @@
 - alarm (background trigger)
 - weather app
 - trips app
-- calendar app (to show work free days)
+- calendar app (to show work free days)[]
    
 ## Links
 - Android UI Layer explained: https://youtu.be/p9VR8KbmzEE
