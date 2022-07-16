@@ -15,6 +15,8 @@
 - weather app
 - trips app
 - [calendar app (to show work free days)](https://github.com/zprima/compose-slovenia-work-free-days)
+- snake game
+- tic tac toe
    
 ## Links
 - Android UI Layer explained: https://youtu.be/p9VR8KbmzEE
@@ -36,7 +38,7 @@
 - domain (its the most inner layer in the clean arhitecture. OPTIONAL - depends on app size. For small apps its just not worth it.)
   - usecase (verb in present tense + noun/what (optional) + UseCase)
   - repository (interfaces only)
-  - model
+  - models or packages by context
 - data (mid layer - it includes domain) 
   - repository (implementations of interfaces) (type of data + Repository)
   - data sources (type of data + type of source + DataSource) (NewsLocalDataSource, NewsRemoteDataSource)
